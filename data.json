@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.pexels.com/photos/17071119/pexels-photo-17071119/free-photo-of-biru-koktail-minuman-kaca.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Koktail",
+            "size": "100 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=koktail&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/8755255/pexels-photo-8755255.jpeg",
+            "nama": "Es Semangka",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+semangka&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/4051262/pexels-photo-4051262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Es Lemon",
+            "size": "150 Ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=es+lemon&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/5817626/pexels-photo-5817626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Jus Alpukat",
+            "size": "150 Ml",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=jus+alpukat&tbm=shop"
+        }
+    ]
+}
