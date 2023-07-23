@@ -494,7 +494,7 @@ section.contact-us iframe {
 div.kontak {
   width: 30%;
   /* color mengatur warna tulisan */
-  color: rgb(246, 247, 246);
+  color: rgb(0,0,0);
   text-align: center;
   margin-top: 50px;
 }
